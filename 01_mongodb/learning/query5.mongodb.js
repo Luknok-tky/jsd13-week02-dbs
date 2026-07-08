@@ -1,0 +1,13 @@
+use("sample_mflix");
+
+// 1. What are top 5 runtime movies?
+db.movies.find().sort({ runtime: -1 }).limit(5);
+
+// 2. What are top 5 runtime movies that less than 60 minutes?
+db.movies.find({ runtime: { $lt: 60 } }).sort({ runtime: -1 }).limit(5);
+
+// 3. I was born in 1955, which 3 movies should I watch in next 10 years?
+db.movies.find({ year: { $gte: 1955, $lte: 1965 } }).limit(3);
+
+// 4. How many movies were released during 1990 - 2000?
+db.movies.find({ year: { $gte: 1990, $lte: 2000 } }).count()
