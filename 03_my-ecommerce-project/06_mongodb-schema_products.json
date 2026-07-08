@@ -1,0 +1,50 @@
+{
+  "productId": "prod_ring_01",
+  "name": "Minimalist Petite Band Ring",
+  "category": "แหวน",
+  "price": 2490, 
+  "image": "https://example.com/images/petite-band.jpg",
+  "diamondDetail": {
+    "carat": "0.15 กะรัต (เม็ดเดี่ยวชูมินิมอล)",
+    "color": "น้ำ 100 (D Color)"
+  },
+  "options": {
+    "colors": ["สีทองขาว", "สีโรสโกลด์"],
+    "sizes": [48, 50, 52]
+  },
+  "stock": 15
+}
+
+{
+  "productId": "prod_ear_02",
+  "name": "Classic Solitaire Stud Earrings",
+  "category": "ต่างหู",
+  "price": 4990, 
+  "image": "https://example.com/images/classic-studs.jpg",
+  "diamondDetail": {
+    "carat": "0.50 กะรัต x 2 ข้าง (รวม 1.0 กะรัต)",
+    "color": "น้ำ 99 (E Color)"
+  },
+  "options": {
+    "colors": ["สีทองขาว", "สีทอง"],
+    "sizes": [0] 
+  },
+  "stock": 8
+}
+
+{
+  "productId": "prod_neck_03",
+  "name": "Elegance Halo Pendant Necklace",
+  "category": "สร้อยคอ",
+  "price": 7500, 
+  "image": "https://example.com/images/halo-pendant.jpg",
+  "diamondDetail": {
+    "carat": "1.20 กะรัต (เม็ดกลางล้อมเพชรบริวาร)",
+    "color": "น้ำ 100 (D Color)"
+  },
+  "options": {
+    "colors": ["สีทองขาว"],
+    "sizes": [40, 42] 
+  },
+  "stock": 5
+}
