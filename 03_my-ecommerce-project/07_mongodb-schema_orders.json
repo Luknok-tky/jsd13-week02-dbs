@@ -1,0 +1,38 @@
+{
+  "orderId": "order_69001",
+  "userId": "user_student_01", 
+  "productName": "Minimalist Petite Band Ring",
+  "selectedSize": 50,
+  "selectedColor": "สีโรสโกลด์",
+  "quantity": 1,
+  "totalPrice": 2490,
+  "shippingAddress": "นส. พลอยไพลิน ใจดี - หอพักนักศึกษาห้อง 402, 123 ถ.ฉลองกรุง, เขตลาดกระบัง, กรุงเทพฯ 10520",
+  "status": "ส่งแล้ว (Shipped)",
+  "trackingNumber": "TH123456789EX"
+}
+
+{
+  "orderId": "order_69002",
+  "userId": "user_jobber_02", 
+  "productName": "Classic Solitaire Stud Earrings",
+  "selectedSize": 0, 
+  "selectedColor": "สีทองขาว",
+  "quantity": 1,
+  "totalPrice": 4990,
+  "shippingAddress": "คุณ ณัฐวุฒิ เกียรติขจร - คอนโดสราญรมย์ ชั้น 12, 45/9 ถ.สุขุมวิท 21, เขตวัฒนา, กรุงเทพฯ 10110",
+  "status": "จ่ายแล้ว (Paid)",
+  "trackingNumber": "" 
+}
+
+{
+  "orderId": "order_69003",
+  "userId": "user_everyday_03", 
+  "productName": "Elegance Halo Pendant Necklace",
+  "selectedSize": 42,
+  "selectedColor": "สีทองขาว",
+  "quantity": 1,
+  "totalPrice": 7500,
+  "shippingAddress": "นาง วรรณพร เลิศวิจิตร - บ้านเลขที่ 88/8 หมู่บ้านแกรนด์พาร์ค, ถ.ราชพฤกษ์, อ.บางกรวย, นนทบุรี 11130",
+  "status": "รอจ่ายเงิน (Pending)",
+  "trackingNumber": ""
+}
