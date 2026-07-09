@@ -153,7 +153,7 @@
       "x": 967.1998748779297,
       "y": 616.4666366577148,
       "width": 552.5998687744141,
-      "height": 722.7999267578125,
+      "height": 756.7999420166017,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -169,8 +169,8 @@
         "type": 3
       },
       "seed": 1113431806,
-      "version": 145,
-      "versionNonce": 2127025378,
+      "version": 160,
+      "versionNonce": 1970631795,
       "isDeleted": false,
       "boundElements": [
         {
@@ -178,7 +178,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1783510631005,
+      "updated": 1783566090371,
       "link": null,
       "locked": false
     },
